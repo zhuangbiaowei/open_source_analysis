@@ -104,8 +104,7 @@
 |PyPy|http://pypy.org|
 |KDE|http://www.kde.org|
 |apt - Advanced Package Tool|https://wiki.debian.org/Apt|
-|Moodle|"http://git.moodle.org/gw?p=moodle.git
-a=summary"|
+|Moodle|http://git.moodle.org/gw?p=moodle.git|
 |Calligra Suite|http://www.calligra.org|
 |QGIS|http://qgis.org/|
 |Mozilla Firefox|http://www.firefox.com/|
